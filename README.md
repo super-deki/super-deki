@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/super-deki">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=super-deki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duper-deki&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=super-deki&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
